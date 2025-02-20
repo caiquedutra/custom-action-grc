@@ -2,8 +2,6 @@ package com.example;
 
 import java.net.URI;
 import java.util.List;
-import java.net.http.HttpRequest;
-import java.net.http.HttpClient;
 
 import com.ibm.openpages.api.workflow.actions.AbstractCustomAction;
 import com.ibm.openpages.api.workflow.actions.IWFCustomProperty;
